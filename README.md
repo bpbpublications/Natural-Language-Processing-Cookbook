@@ -1,2 +1,2 @@
-# Mastering NLP Essential Recipes for Language Processing
- Mastering NLP: Essential Recipes for Language Processing, by BPB Publications
+# Natural Language Processing Cookbook
+Natural Language Processing Cookbook, by BPB Publications
